@@ -246,7 +246,7 @@ li {
 .middle li:nth-child(2) .dropdown-menu {
   left: -5% !important;
   right: -5% !important;
-  width: 110%;
+  width: 100%;
   padding: 15px 0px 10px 10px;
 }
 .middle li:nth-child(1) .dropdown-menu {
